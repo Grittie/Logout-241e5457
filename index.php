@@ -53,6 +53,7 @@
     }
     ?>
 
+    <form action="logout.php" method="POST"> <input type="submit" name="logout" value="Logout" style="float: right;"> </form>
     <h1> Welcome to the Netland control panel </h1>
     <h3> Series <a href="create.php?type=series"> add</a> </h3>
 
